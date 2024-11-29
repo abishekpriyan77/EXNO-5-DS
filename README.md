@@ -18,6 +18,9 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
+
+![Screenshot (108)](https://github.com/user-attachments/assets/ab00428c-4e18-4c06-bee1-370cd5fc86b3)
+![Screenshot (109)](https://github.com/user-attachments/assets/511f1796-89bd-45bd-a7ae-39d4edc6a8f5)
 ![Screenshot (110)](https://github.com/user-attachments/assets/dd207cbd-7ff2-4b11-a4fe-c6790c04f605)
 ![Screenshot (111)](https://github.com/user-attachments/assets/1509bb5e-4fb2-443d-907e-98395c49a1ca)
 ![Screenshot (112)](https://github.com/user-attachments/assets/7950456a-4570-4a81-8b78-3c4397d10ff5)
